@@ -6,7 +6,7 @@
     "steps": [
         {
             "id": 1,
-            "url": "https://turskidki.ru/",
+            "url": "https://online.sberbank.ru/",
             "protocol": "https",
             "method": "OPTIONS",
             "payload": "Русский корабль иди нахуй!",
@@ -19,7 +19,7 @@
         },
 		{
             "id": 2,
-            "url": "https://anex-tour.ru/",
+            "url": "https://f.tele2.ru/",
             "protocol": "https",
             "method": "OPTIONS",
             "payload": "Русский корабль иди нахуй!",
@@ -32,7 +32,7 @@
         },
 		{
             "id": 3,
-            "url": "https://www.bankturov.ru/",
+            "url": "https://portal5.cbr.ru/",
             "protocol": "https",
             "method": "OPTIONS",
             "payload": "Русский корабль иди нахуй!",
@@ -45,7 +45,7 @@
         },
 		{
             "id": 4,
-            "url": "https://www.1001tur.ru/",
+            "url": "https://bitrix24.ru",
             "protocol": "https",
             "method": "OPTIONS",
             "payload": "Русский корабль иди нахуй!",
@@ -58,7 +58,7 @@
         },
 		{
             "id": 5,
-            "url": "https://tours.tutu.ru/",
+            "url": "https://www.bitrix24.net/",
             "protocol": "https",
             "method": "OPTIONS",
             "payload": "Русский корабль иди нахуй!",
@@ -71,7 +71,7 @@
         },
 		{
             "id": 6,
-            "url": "https://travelata.ru/",
+            "url": "https://bitrix24.by/",
             "protocol": "https",
             "method": "OPTIONS",
             "payload": "Русский корабль иди нахуй!",
